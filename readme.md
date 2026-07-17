@@ -171,22 +171,16 @@ Python • Pandas • Scikit-Learn • Machine Learning
 
 <p align="center">
 
-<a href="https://github.com/Chitesh09">
-
+<a href="https://github.com/Chitesh09" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
-<a href="[https://www.linkedin.com/in/chitesh-rajapu](https://www.linkedin.com/in/chitesh-rajapu-408b89333/)">
-
+<a href="https://www.linkedin.com/in/chitesh-rajapu-408b89333/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
 </a>
 
 <a href="mailto:chiteshrajapu09@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 </p>
