@@ -36,6 +36,12 @@ Building scalable web applications, backend systems and AI-powered solutions.
 - System Design
 - Machine Learning
 
+  ## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chitesh09/Chitesh09/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
 🎯 Goal
 
 Become a Software Development Engineer (SDE) and build products that solve real-world problems.
