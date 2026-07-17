@@ -177,7 +177,7 @@ Python • Pandas • Scikit-Learn • Machine Learning
 
 </a>
 
-<a href="https://www.linkedin.com/in/chitesh-rajapu">
+<a href="[https://www.linkedin.com/in/chitesh-rajapu](https://www.linkedin.com/in/chitesh-rajapu-408b89333/)">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
