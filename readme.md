@@ -1,162 +1,128 @@
 <h1 align="center">Hi 👋, I'm Chitesh Rajapu</h1>
 
 <h3 align="center">
-Full Stack Java Developer • Information Science Engineering Student • AI & ML Enthusiast
+💻 Full Stack Java Developer | 🎓 Information Science Engineering Student | 🚀 AI & ML Enthusiast
 </h3>
 
 <p align="center">
-Building scalable web applications, backend systems and AI-powered solutions.
+Building scalable backend systems, AI-powered applications, and solving real-world problems through code.
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Chitesh09&label=Profile%20Views&color=00d9ff&style=flat"/>
-
+<img src="https://komarev.com/ghpvc/?username=Chitesh09&label=Profile%20Views&color=00d9ff&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🌌 About Me
 
-🎓 Information Science Engineering Student at **Atria Institute of Technology**
-
-📈 Current CGPA **8.2 / 10**
-
-💼 Former **Web Development Intern at DRDO (MTRDC), Bengaluru**
-
-💻 Passionate about **Full Stack Java Development**
-
-🧠 Solving **Data Structures & Algorithms** on LeetCode
-
-🌱 Currently learning
-
-- Spring Boot
-- React
-- Node.js
-- System Design
-- Machine Learning
-
-  ## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chitesh09/Chitesh09/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
-🎯 Goal
-
-Become a Software Development Engineer (SDE) and build products that solve real-world problems.
+- 🎓 Information Science Engineering Student at **Atria Institute of Technology**
+- 📈 CGPA **8.2 / 10**
+- 💼 Former **Web Development Intern @ DRDO (MTRDC), Bengaluru**
+- 💻 Passionate about **Java Backend Development**
+- 🧠 Solving **Data Structures & Algorithms**
+- 🌱 Currently learning:
+  - Spring Boot
+  - React
+  - Node.js
+  - System Design
+  - Machine Learning
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c"/>
+</p>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+</p>
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
-# 💼 Internship
+# 🐍 Contribution Snake
 
-## 🛰 DRDO – Microwave Tube Research & Development Centre (MTRDC)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Chitesh09/Chitesh09/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
-**Web Development Intern**
+---
 
-- Developed backend modules using PHP & MySQL
-- Worked on authentication and CRUD operations
-- Improved internal web applications
-- Gained experience with real-world software development
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Chitesh09&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌱 Smart Hydroponic System
+### 🌱 Smart Hydroponic System
 
-An IoT-based smart farming solution that automates plant growth by monitoring
+IoT-powered automated farming system that monitors
 
-- Water Level
-- Temperature
-- Nutrient Concentration
+- 🌡 Temperature
+- 💧 Water Level
+- 🌿 Nutrient Concentration
 
-**Tech Stack**
-
-Python • IoT • Sensors • Automation
+**Tech:** Python • IoT • Sensors
 
 ---
 
-## 📚 Book Recommendation System
+### 📚 Book Recommendation System
 
 Machine Learning recommendation engine using collaborative filtering.
 
-**Tech Stack**
-
-Python • Pandas • Scikit-Learn • Machine Learning
+**Tech:** Python • Pandas • Scikit-Learn
 
 ---
 
-# 🏆 Coding Profiles
+## 💼 Internship
 
-- 💻 LeetCode
-- 🚀 GitHub
-- 🌱 Learning Spring Boot
-- 📚 Exploring System Design
+### 🛰 DRDO – Microwave Tube Research & Development Centre
 
----
+**Web Development Intern**
 
-# 📊 GitHub Stats
+✔ Backend Development
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chitesh09&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chitesh09&layout=compact&theme=tokyonight" />
-</p>
----
+✔ PHP & MySQL
 
-# 🔥 GitHub Streak
+✔ Authentication
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chitesh09&theme=tokyonight" />
-</p>
+✔ CRUD Operations
+
+✔ Internal Web Applications
+
 ---
 
 # 📈 Contribution Graph
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitesh09&theme=tokyo-night)](https://github.com/Chitesh09)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chitesh09&theme=tokyo-night)](https://github.com/Chitesh09)
 
 ---
 
