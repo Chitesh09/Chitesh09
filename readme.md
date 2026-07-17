@@ -154,11 +154,8 @@ Python • Pandas • Scikit-Learn • Machine Learning
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Chitesh09&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Chitesh09&theme=tokyonight" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
